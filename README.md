@@ -5,7 +5,7 @@ This project was bootstrapped with;
 - [Semantic UI React - SUIR](https://react.semantic-ui.com/)
 
 
-After you run `npm i`, you can start the project with `npm start`. It runs on port `http://localhost:3010`.
+After you run `npm i`, you can start the project with `npm start`. It runs on `http://localhost:3010`.
 
 Themes are under `src/semantic-ui` folder.
 `theme.config` file manages what theme to load.
